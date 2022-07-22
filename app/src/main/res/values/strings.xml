@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">IWM NEAVE</string>
+    <string name="main_title">Identify\nWith\nMobileNet</string>
+    <string name="main_vision_button">Vision</string>
+
+    <string name="live_image_classification_title">Live Classification</string>
+    <string name="loadNcapture_image_classification_title">Image Classification</string>
+    <string name="image_classification_results_header_row_name">Classification</string>
+    <string name="image_classification_results_header_row_score">Score</string>
+
+    <string name="vision_card_preview_title">Live Classification</string>
+    <string name="vision_card_preview_description">Classify Objects in Realtime</string>
+
+    <string name="vision_card_capture_title">Capture an Image</string>
+    <string name="vision_card_capture_description">Classify objects in an image captured by the Camera</string>
+
+    <string name="vision_card_load_title">Load an Image from Memory</string>
+    <string name="vision_card_load_description">Classify objects in an image of your choice</string>
+
+    <string name="nlp_card_lstm_title">Text Classification.\nLSTM model trained on Reddit comments dataset. </string>
+    <string name="nlp_card_lstm_description">Predicts subreddit by given comment.\nInput is uint8 1xN shaped tensor, where N is the length of text\'s bytes representation in utf-8 encoding. Output classes are subreddits.</string>
+    <string name="error_dialog_text">Sorry there was an error.</string>
+    <string name="load_image_button">Load Image</string>
+    <string name="load_image_content_desc">TODO</string>
+    <string name="capture_image_button">Open Camera</string>
+    <string name="capture_next_image">Next</string>
+
+</resources>
