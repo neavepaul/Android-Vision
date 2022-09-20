@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MobileNet4TCS.iml" filepath="$PROJECT_DIR$/.idea/modules/MobileNet4TCS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MobileNet4TCS.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MobileNet4TCS.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MobileNet4TCS.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MobileNet4TCS.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MobileNet4TCS.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MobileNet4TCS.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MobileNet4TCS.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MobileNet4TCS.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/bg_error_dialog.xml" value="0.1695" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/bg_info_button_ok.xml" value="0.1695" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/bg_list_card.xml" value="0.1695" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/bg_nlp_edittext.xml" value="0.1695" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/bg_skip_button.xml" value="0.1695" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/bg_tab_indicator.xml" value="0.1695" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/bg_text_classification_clear_button.xml" value="0.1695" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/bg_text_classification_results.xml" value="0.1695" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/ic_back.xml" value="0.1695" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/ic_error_icon.xml" value="0.2645" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/ic_image_classification_s.xml" value="0.1835" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2645" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/ic_vision_s.xml" value="0.1835" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/image_classification_fpsms_bg.xml" value="0.2645" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/result_row_progress_bar_progress_state.xml" value="0.2645" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/result_row_progress_bar_top1.xml" value="0.2645" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/result_row_progress_bar_top2.xml" value="0.2645" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/drawable/result_row_progress_bar_top3.xml" value="0.2645" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/activity_capture.xml" value="0.25" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/activity_image_classification.xml" value="0.136" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/activity_list_stub.xml" value="0.1" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/activity_load.xml" value="0.264" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/activity_text_classification.xml" value="0.1" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/error_dialog.xml" value="0.176" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/image_classification_result_row.xml" value="0.1" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/info.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/list_card.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/nlp_list_content.xml" value="0.1" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/texture_view.xml" value="0.25" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/vision_list_content.xml" value="0.1" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/layout/welcome_pager_page.xml" value="0.6532258064516129" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/MobileNet4TCS/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1835" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/android-demo-app-master/PyTorchDemoApp/app/src/main/res/layout/activity_image_classification.xml" value="0.16077898550724637" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/android-demo-app-master/PyTorchDemoApp/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/android-demo-app-master/PyTorchDemoApp/app/src/main/res/layout/activity_welcome.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/android-demo-app-master/PyTorchDemoApp/app/src/main/res/layout/error_dialog.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/android-demo-app-master/PyTorchDemoApp/app/src/main/res/layout/info.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/android-demo-app-master/PyTorchDemoApp/app/src/main/res/layout/list_card.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/neave/Documents/TCS/MOBILENET/android/android-demo-app-master/PyTorchDemoApp/app/src/main/res/layout/welcome_pager_page.xml" value="0.12158054711246201" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
