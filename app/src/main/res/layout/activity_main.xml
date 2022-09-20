@@ -5,7 +5,7 @@
     style="@style/ActivityContentBase"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@mipmap/bg_main">
+    android:background="@mipmap/bg_neave">
 
     <FrameLayout
         android:id="@+id/main_vision_click_view"

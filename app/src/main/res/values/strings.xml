@@ -17,8 +17,7 @@
     <string name="vision_card_load_title">Load an Image from Memory</string>
     <string name="vision_card_load_description">Classify objects in an image of your choice</string>
 
-    <string name="nlp_card_lstm_title">Text Classification.\nLSTM model trained on Reddit comments dataset. </string>
-    <string name="nlp_card_lstm_description">Predicts subreddit by given comment.\nInput is uint8 1xN shaped tensor, where N is the length of text\'s bytes representation in utf-8 encoding. Output classes are subreddits.</string>
+
     <string name="error_dialog_text">Sorry there was an error.</string>
     <string name="load_image_button">Load Image</string>
     <string name="load_image_content_desc">TODO</string>
