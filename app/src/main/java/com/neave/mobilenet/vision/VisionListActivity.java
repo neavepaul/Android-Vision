@@ -24,14 +24,14 @@ public class VisionListActivity extends AbstractListActivity {
       final Intent intent = new Intent(VisionListActivity.this, CaptureActivity.class);
       intent.putExtra(ImageClassificationActivity.INTENT_MODULE_ASSET_NAME, "mobilenet_v2.pt");
       intent.putExtra(ImageClassificationActivity.INTENT_INFO_VIEW_TYPE,
-          InfoViewFactory.INFO_VIEW_TYPE_IMAGE_CLASSIFICATION_RESNET);
+          InfoViewFactory.INFO_VIEW_TYPE_IMAGE_CLASSIFICATION_QMOBILENET);
       startActivity(intent);
     });
     findViewById(R.id.vision_card_load_click_area).setOnClickListener(v -> {
       final Intent intent = new Intent(VisionListActivity.this, LoadActivity.class);
       intent.putExtra(ImageClassificationActivity.INTENT_MODULE_ASSET_NAME, "mobilenet_v2.pt");
       intent.putExtra(ImageClassificationActivity.INTENT_INFO_VIEW_TYPE,
-              InfoViewFactory.INFO_VIEW_TYPE_IMAGE_CLASSIFICATION_RESNET);
+              InfoViewFactory.INFO_VIEW_TYPE_IMAGE_CLASSIFICATION_QMOBILENET);
       startActivity(intent);
     });
   }
